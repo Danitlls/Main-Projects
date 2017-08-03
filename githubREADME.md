@@ -9,8 +9,6 @@ This README organizes all my main projects in one place.
 ## Projects
 
 ### JavaScript
-<!-- | 1     | **Better Doctor API**     | This website connects to the [BetterDoctor API]() to allow users to find doctors in the Portland, OR area after typing in an ailment or symptom (e.g., headache). Built with HTML, Sass, JavaScript, jQuery, npm, Bower, gulp, and Materialize. | [Link]() |
-| 2     | **Zoo Application**     | Web app built with Angular 2 and TypeScript that allows zookeepers to edit, add, and delete animal information. | [Link]() | -->
 
 | Week  | Project       | Description                  | Repository  |
 | ----- | ------------- | ---------------------------- | ----------- |
@@ -22,19 +20,17 @@ This README organizes all my main projects in one place.
 
 ### CSS
 
-
 | Week  | Project       | Description                  | Repository   |
 | ----- | ------------- | ---------------------------- | ------------ |
 | 1     | **Home Decoor**     | Site that features a product for sale using only CSS and HTML. Use of different centering techniques, layout made possible with the float property, and practice using various pseudo selectors and pseudo elements. Site is not for mobile view. | [Link](https://github.com/Danitlls/home-decor-eshop) |
-| 2      |  **Responsive design** (Mimic a Google's website)   |  In this project, I used the CSS framework Materialize.css to create a responsive website where the page responds to at least three different screen sizes.                            | [Link](https://danitlls.github.io/latest-trends/) |
-| 3      |  **Walter Groupius, Bauhaus' Funder**      |  The objective of this project was to crate a mobile-first site using Sass, as well as utilizing the Sass libraries Bourbon and Neat.            | [Link](https://github.com/Danitlls/walter-gropius)  |
-| 4      |  **Personal portfolio**             |  A website for a personal portfolio created with Sass, Bourbon, Neat, and Flexbox, incorporing animations and transformations. | [Link](https://github.com/Danitlls/portfolio3.0)  |
+| 2      |  **Responsive design** (Mimic a Google's website)   |  In this project, I used the CSS framework Materialize.css to create a responsive website where the page responds to at least three different screen sizes.      | [Link](https://danitlls.github.io/latest-trends/) |
+| 3      |  **Walter Groupius, Bauhaus' Funder**      |  The objective of this project was to crate a mobile-first site using Sass, as well as utilizing the Sass libraries Bourbon and Neat.        | [Link](https://github.com/Danitlls/walter-gropius)  |
+| 4      |  **Personal portfolio**          |  A website for a personal portfolio created with Sass, Bourbon, Neat, and Flexbox, incorporing animations and transformations. | [Link](https://github.com/Danitlls/portfolio3.0)  |
 | 5      |  **Fund-Space** (GROUP PROJECT)      |  Fund-Space was built over the course of 3.5 days. The front-end of end of the site was built by Taylor and I, using HTML, CSS/SASS. The backend of the site was created by Jun and Lina using C# and the Nancy framework.   | [Link](https://github.com/JMFritz/FundSpace)   |
 
 ---
 
 ### Intro to Programming
-<!-- | 2     | **Survey**       | Survey built with HTML, CSS, Bootstrap, JavaScript, and jQuery | [Link]() | -->
 
 | Week  | Project       | Description                  | Repository   |
 | ----- | ------------- | ---------------------------- | ------------ |
@@ -71,4 +67,4 @@ This README organizes all my main projects in one place.
 
 This project is licensed under the MIT License
 
-**_Daniela Trulls_** Copyright (c) 2017
+**_M. Daniela Trulls_** Copyright (c) 2017
