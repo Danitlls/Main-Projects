@@ -53,6 +53,7 @@ This README organizes all my main projects in one place.
 * jQuery
 * Typescript
 * Angular2
+* React
 
 **Other Technologies:**
 
@@ -60,6 +61,7 @@ This README organizes all my main projects in one place.
 * Adobe Photoshop
 * Google Fonts
 * SketchApp
+* InVision
 * AutoCad-2D
 
 
