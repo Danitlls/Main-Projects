@@ -8,6 +8,11 @@ This README organizes all my main projects in one place.
 
 ## Projects
 
+### Personal Portfolio:
+* A website for a personal portfolio created with Sass, Bourbon, Neat, and Flexbox, incorporing animations and transformations. 
+* [Link](https://github.com/Danitlls/portfolio3.0)  
+* [live-demo](http://rawgit.com/Danitlls/portfolio3.0/master/index.html#)  
+
 ### JavaScript
 
 | Week  | Project       | Description                  | Repository  |
