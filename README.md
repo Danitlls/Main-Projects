@@ -42,7 +42,7 @@ This README organizes all my main projects in one place.
 | 1     | **Portfolio**     | Personal portfolio built with HTML, CSS, Bootstrap | [Link](https://github.com/Danitlls/portfolio) |
 | 3     | **Ping Pong** | Numbers divisible by 3 will become "Ping", numbers divisible by five will become "Pong", and numbers divisible by 3 and 5 become "Pingpong". Built with HTML, CSS, Bootstrap, JavaScript, and jQuery. | [Link](https://github.com/Danitlls/ping-pong-final)  |
 | 4     | **Pizza Ordering Website** | A website that uses objects and constructors that allows a user to order a pizza from a fictitious restaurant. Built with HTML, CSS, Bootstrap, JavaScript, and jQuery. | [Link](https://github.com/Danitlls/orderpizza-2)  |
-| 5     | **Campsite Finder** (GROUP PROJECT) | The App displays hardcoded information about campsites in Oregon, based on caterogies that the user inputs (as location: beach, mountain, river). Built with HTML, CSS, Bootstrap, JavaScript, and jQuery. | [Link](https://github.com/coreysnightout/Campsite) |
+| 5     | **Campsite Finder** (GROUP PROJECT) | The App displays hardcoded information about campsites in Oregon, based on caterogies that the user inputs (as location: beach, mountain, river). Built with HTML, CSS, Bootstrap, JavaScript, and jQuery. | [Link](https://github.com/Danitlls/Campsite) |
 
 ## Contact details
 
