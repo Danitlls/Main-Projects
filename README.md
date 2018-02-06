@@ -1,4 +1,4 @@
-# _Epicodus Main Projects_
+# _Main Projects_
 
 #### By **M. Daniela Trulls**
 
